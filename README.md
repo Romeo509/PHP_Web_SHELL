@@ -15,13 +15,13 @@ Comprehensive Documentation: Detailed documentation directly within the interfac
 easures if not properly secured.
 Usage
 Available Commands
-***
-*ls - List files in the current directory
-*pwd - Print working directory
-*cd [dir] - Change directory
-*touch [file] - Create a new file
-*rm [file] - Remove a file
-*mkdir [dir] - Create a new directory
-*rmdir [dir] - Remove a directory
-*download [file] - Download a file
+
+.ls - List files in the current directory
+.pwd - Print working directory
+.cd [dir] - Change directory
+.touch [file] - Create a new file
+.rm [file] - Remove a file
+.mkdir [dir] - Create a new directory
+.rmdir [dir] - Remove a directory
+.download [file] - Download a file
 
