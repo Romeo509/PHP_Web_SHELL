@@ -16,12 +16,12 @@ easures if not properly secured.
 Usage
 Available Commands
 
-.ls - List files in the current directory
-.pwd - Print working directory
-.cd [dir] - Change directory
-.touch [file] - Create a new file
-.rm [file] - Remove a file
-.mkdir [dir] - Create a new directory
-.rmdir [dir] - Remove a directory
-.download [file] - Download a file
+.ls - List files in the current directory <br>
+.pwd - Print working directory <br>
+.cd [dir] - Change directory <br>
+.touch [file] - Create a new file <br>
+.rm [file] - Remove a file <br>
+.mkdir [dir] - Create a new directory <br>
+.rmdir [dir] - Remove a directory <br>
+.download [file] - Download a file <br>
 
