@@ -44,6 +44,8 @@ To install this web shell, follow these steps:<br>
 Clone the repository to your web server. <br>
 git clone https://github.com/Romeo509/PHP_Web_SHELL.git <br>
 Access the web shell through your web browser.
+![Type1 Interface](type1.png)
+![Type2 Interface](type2.png)
 
 
 
