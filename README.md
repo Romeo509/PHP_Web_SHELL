@@ -35,12 +35,10 @@ Select a file to upload using the file input field and click "Upload File". The 
 To install this web shell, follow these steps:<br>
 
 Clone the repository to your web server. <br>
-git clone [https://[github.com/yourusername/php-web-shell](https://github.com/Romeo509/PHP_Web_SHELL/).git](https://github.com/Romeo509/PHP_Web_SHELL.git) <br>
+git clone https://github.com/Romeo509/PHP_Web_SHELL.git <br>
 Access the web shell through your web browser.
 
 
-
-git clone https://github.com/yourusername/php-web-shell.git
 
 <h3>Contributing</h3>
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
