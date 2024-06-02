@@ -33,7 +33,7 @@ Comprehensive Documentation: Detailed documentation directly within the interfac
 8. download [file] - Download a file <br>
 
 <h3>Command Execution</h3>
-Enter the command in the input field and click "Execute". The result will be displayed in the output section.
+Enter the command in the input field and click "Execute" or tap ENTER on the keyboard. The result will be displayed in the output section.
 
 <h3>File Upload</h3>
 Select a file to upload using the file input field and click "Upload File". The result will be displayed in the output section.
