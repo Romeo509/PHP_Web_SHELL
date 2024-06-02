@@ -8,9 +8,9 @@ This PHP Web Shell is a powerful and versatile tool designed for file system ope
 The web shell does not provide direct access to the server shell (e.g., bash, sh). Instead, it executes predefined PHP functions to manage file system operations.
 
 <h3>Bypassed Restrictions:</h3>
-1. Server-Side Command Execution Restrictions:- The web shell executes commands through PHP, potentially bypassing direct command execution restrictions imposed by server configurations. <br>
-2. Web Server Security Measures:- Manages directory changes, file operations, and uploads internally within PHP, which might bypass typical web server protections. <br>
-3. Access Control and Permissions:- Operates under the web server user permissions, which can differ from standard user permissions, allowing for broader access in some cases. <br>
+1. **Server-Side Command Execution Restrictions:-** The web shell executes commands through PHP, potentially bypassing direct command execution restrictions imposed by server configurations. <br>
+2. **Web Server Security Measures:-** Manages directory changes, file operations, and uploads internally within PHP, which might bypass typical web server protections. <br>
+3. **Access Control and Permissions:-** Operates under the web server user permissions, which can differ from standard user permissions, allowing for broader access in some cases. <br>
 
 <h3>Features</h3>
 Command Execution: Supports a wide range of commands for file and directory operations.
