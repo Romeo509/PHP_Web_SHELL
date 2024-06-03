@@ -307,7 +307,7 @@ function upload() {
             font-size: 12px;
             color: #ff00ff;
             margin-top: 20px;
-            border-top: 1px solid #333;
+            border-top: 1px solid #00ffea;
             padding-top: 10px;
         }
 
@@ -318,7 +318,7 @@ function upload() {
         .documentation .inspiration {
             margin-top: 10px;
             padding-top: 10px;
-            border-top: 1px solid #333;
+            border-top: 1px solid #00ffea;
         }
 
         .terminal-container {
@@ -326,7 +326,7 @@ function upload() {
             justify-content: center;
             align-items: center;
             flex-grow: 1;
-            background: url('https://i.imgur.com/VzQPa5X.png') center center/cover no-repeat;
+            background: url('https://i.pinimg.com/564x/5c/03/c5/5c03c539d33429e07da6043d4f0ea604.jpg') center center/cover no-repeat;
         }
 
         .terminal {
