@@ -4,7 +4,7 @@
 <h4>Overview🔍</h4>
 
 This PHP Web Shell is a powerful and versatile tool designed for file system operations directly from a web interface. It includes a wide range of commands such as ls, pwd, cd, touch, rm, mkdir, rmdir, download, and upload, providing a comprehensive set of functionalities for managing files and directories. <br>
-<h3>Capabilities</h3>
+<h3>Capabilities💡</h3>
 The web shell does not provide direct access to the server shell (e.g., bash, sh). Instead, it executes predefined PHP functions to manage file system operations.
 
 <h3>Bypassed Restrictions🔓:</h3>
