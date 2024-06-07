@@ -1,7 +1,7 @@
 
-Sure, here is the revised version of your document focusing on a project built as a simple web shell to manage data on a web server:
 
-PHP_Web_SHELL🐘💻🔒
+#PHP_Web_SHELL🐘💻🔒
+
 <h3>PHP Web Shell</h3>
 <h4>Overview🔍</h4>
 This PHP Web Shell is a simple and versatile tool designed for managing data on a web server directly from a web interface. It includes a wide range of commands such as ls, pwd, cd, touch, rm, mkdir, rmdir, download, and upload, providing a comprehensive set of functionalities for managing files and directories. <br>
@@ -28,11 +28,13 @@ download [file] - Download a file <br>
 Enter the command in the input field and click "Execute" or press ENTER on the keyboard. The result will be displayed in the output section.
 <h3>File Upload📤</h3>
 Select a file to upload using the file input field and click "Upload File". The result will be displayed in the output section.
+
 <h3>Installation🛠️</h3>
 To install this web shell, follow these steps:<br>
 Clone the repository to your web server. <br>
 git clone https://github.com/Romeo509/PHP_Web_SHELL.git <br>
 Access the web shell through your web browser.
+
 
 ![Type1 Interface](type1.png)
 
