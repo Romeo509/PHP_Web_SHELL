@@ -375,7 +375,7 @@ function upload() {
 		<hr>
 		 <div class="documentation">
             <p class="legal">🙏This tool is for educational purposes only. Use it only on servers you own or have permission to access. 😠Unauthorized use is illegal.
-			I hereby disclaim any responsibility for misuse of this tool. ⚠️Users are advised to utilize it at their own risk.</p>
+			 ⚠️Users are advised to utilize it at their own risk.</p>
             
         </div>
     </div>
