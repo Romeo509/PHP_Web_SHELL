@@ -9,11 +9,11 @@ This PHP Web Shell is a simple and versatile tool designed for managing data on 
 <h3>Capabilities💡</h3>
 The web shell does not provide direct access to the server shell (e.g., bash, sh). Instead, it executes predefined PHP functions to manage file system operations.
 <h3>Features✨</h3>
-1. Command Execution**: Supports a wide range of commands for file and directory operations.
-2. File Upload and Download**: Securely upload and download files through the web interface.
-3. Session Management**: Keeps track of the current directory using session management.
-4. User-Friendly Interface**: Includes a sidebar with available commands and documentation, enhancing usability.
-5. Comprehensive Documentation**: Detailed documentation directly within the interface to guide users.
+1. Command Execution**: Supports a wide range of commands for file and directory operations.<br>
+2. File Upload and Download**: Securely upload and download files through the web interface.<br>
+3. Session Management**: Keeps track of the current directory using session management.<br>
+4. User-Friendly Interface**: Includes a sidebar with available commands and documentation, enhancing usability.<br>
+5. Comprehensive Documentation**: Detailed documentation directly within the interface to guide users.<br>
 <h3>Usage🔧</h3>
 <h4>Available Commands📜</h4>
 ls - List files in the current directory <br>
